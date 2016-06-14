@@ -1,5 +1,6 @@
 ##Kogo dotyczy to pismo?
-Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pisma, w którym Organ grozi wszczęciem procedury egzekucyjnej w oparciu o u.p.e.a.
+1. Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pisma, w którym Organ grozi wszczęciem procedury egzekucyjnej w oparciu o u.p.e.a.
+2. Analogiczne pismo należy wysłać do organu egzekucyjnego (Wojewoda zwykle) po wszczęciu postępowania egzekucyjnego.
 
 ##Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Odpowiedź Organu jest istotna dla sprawy, bo trudno będzie później Organowi zmienić swoje stanowisko (co oczywiście nie jest niemożliwe).
